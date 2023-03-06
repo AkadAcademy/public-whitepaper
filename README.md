@@ -193,7 +193,7 @@ Platform Design and Architecture: 3.2
 
 ### Tokenization of student identities courses and achievements
 
-AkadAcademy leverages tokenization to incentivize educators to create high-quality courses and to reward students for their achievements. Here’s how tokenization works on the DUCA platform:
+AkadAcademy leverages tokenization to incentivize educators to create high-quality courses and to reward students for their achievements. Here’s how tokenization works on the AkadAcademy platform:
 
 1. **Student Identities:** Students receive a unique token that represents their identity on the platform. This token allows them to access their personalized dashboard, purchase courses, and receive certifications or degrees.
 2. **Courses:** Educators, professors, and teachers alike can create courses and list them on the marketplace. Students can purchase access to these courses or programs using tokens. The number of tokens required to access a course is determined by the educator, providing them with an opportunity to earn tokens for their contributions.
