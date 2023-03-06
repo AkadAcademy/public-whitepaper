@@ -1,3 +1,3 @@
 # Table of contents
 
-* [🎓 Akad Academy](README.md)
+* [🎓 AkadAcademy](README.md)
